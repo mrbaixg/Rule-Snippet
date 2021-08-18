@@ -42,7 +42,7 @@ curl -o ./Scripts/Wechat.js https://raw.githubusercontent.com/NobyDa/Script/mast
 curl -o ./Scripts/chavy.box.js https://raw.githubusercontent.com/chavyleung/scripts/master/chavy.box.js
 curl -o ./Scripts/wb_launch.js https://raw.githubusercontent.com/yichahucha/surge/master/wb_launch.js
 curl -o ./Scripts/wb_ad.js https://raw.githubusercontent.com/yichahucha/surge/master/wb_ad.js
-curl -o ./Scripts/surge%20zhihu%20people.js https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/surge%20zhihu%20people.js
-curl -o ./Scripts/surge%20zhihu%20feed.js https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/surge%20zhihu%20feed.js
-curl -o ./Scripts/surge%20zhihu%20recommend.js https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/surge%20zhihu%20recommend.js
-curl -o ./Scripts/surge%20zhihu%20answer.js https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/surge%20zhihu%20answer.js
+curl -o ./Scripts/zhihu-people.js https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/surge%20zhihu%20people.js
+curl -o ./Scripts/zhihu-feed.js https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/surge%20zhihu%20feed.js
+curl -o ./Scripts/zhihu-recommend.js https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/surge%20zhihu%20recommend.js
+curl -o ./Scripts/zhihu-answer.js https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/surge%20zhihu%20answer.js
