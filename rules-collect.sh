@@ -40,3 +40,9 @@ curl -o ./Scripts/PolicySwitch.js https://raw.githubusercontent.com/NobyDa/Scrip
 curl -o ./Scripts/JD_DailyBonus.js https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
 curl -o ./Scripts/Wechat.js https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Wechat.js
 curl -o ./Scripts/chavy.box.js https://raw.githubusercontent.com/chavyleung/scripts/master/chavy.box.js
+curl -o ./Scripts/wb_launch.js https://raw.githubusercontent.com/yichahucha/surge/master/wb_launch.js
+curl -o ./Scripts/wb_ad.js https://raw.githubusercontent.com/yichahucha/surge/master/wb_ad.js
+curl -o ./Scripts/surge%20zhihu%20people.js https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/surge%20zhihu%20people.js
+curl -o ./Scripts/surge%20zhihu%20feed.js https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/surge%20zhihu%20feed.js
+curl -o ./Scripts/surge%20zhihu%20recommend.js https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/surge%20zhihu%20recommend.js
+curl -o ./Scripts/surge%20zhihu%20answer.js https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/surge%20zhihu%20answer.js
